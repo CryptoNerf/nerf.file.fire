@@ -1,2 +1,2 @@
 # nerf.file.fire
-mylighter
+mylighter: https://cryptonerf.github.io/nerf.file.fire/
